@@ -1,6 +1,6 @@
-# Shopping Cart Application
+# Shopping Cart Page
 
-This is a simple shopping cart application implemented in Java using SQLite for database operations.
+This is a simple shopping cart page implemented in Java using SQLite for database operations.
 
 ## Setup Instructions
 
